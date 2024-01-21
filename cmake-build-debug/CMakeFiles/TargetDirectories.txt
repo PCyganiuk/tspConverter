@@ -1,0 +1,3 @@
+C:/Users/pcyga/CLionProjects/tspConverter/cmake-build-debug/CMakeFiles/tspConverter.dir
+C:/Users/pcyga/CLionProjects/tspConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pcyga/CLionProjects/tspConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
